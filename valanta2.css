@@ -1,0 +1,470 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.main{
+    width: 1440px;
+    border-bottom: solid rgb(128, 128, 128 ,0.5) 1px;
+    margin-left: 330px; 
+}
+.top{
+    margin-top: 17px;
+    height: 100px;
+    width: 1440px;
+    display: flex;
+    margin-left: 100px; 
+}
+.logo{
+    height: 72px;
+    width: 131px;
+}
+.line{
+    position: relative;
+    width: 1px;
+    height: 40px;
+    top: 15px;
+    background-color: gray;
+}
+.ua{
+    position: relative;
+    top: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.money{
+    position: relative;
+    top: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.face{
+    position: relative;
+    top: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.phone{
+    position: relative;
+    top: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+}
+.smart{
+    position: relative;
+    top: 4px;
+    padding-left: 15px;
+    height: 39px;
+    width: 50px;
+}
+.rec{
+    position: relative;
+    top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+}
+.recc{
+    position: relative;
+    top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+}
+.rectangle{
+    height: 55px;
+    width: 55px;
+    position: relative;
+}
+.vector{
+    position: relative;
+    right: 43px;
+    top: -17px;
+    height: 20px;
+    width: 20px;
+}
+.grey{
+    height: 55px;
+    width: 200px;
+    background-color: whitesmoke;
+    text-align: center;
+    position: relative;
+}
+.grw{
+    font-size: 16px;
+    position: relative;
+    top: 5px;
+}
+.vectorr{
+    position: relative;
+    right: 38px;
+    top: 18px;
+    height: 20px;
+    width: 20px;
+}
+.second {
+    position: relative;
+    width: 1440px;
+    margin-top: 19px;
+    height: 70px;
+    border-bottom: solid rgb(128, 128, 128 ,0.5) 1px;
+    margin-left: 330px;
+}
+.imgvector{
+    position: relative;
+    top: 15px;
+    left: 170px;
+    width: 19px;
+    height: 17.17px;
+}
+.cs-select.cs-skin-border{
+    width: 1440px;
+}
+.cs-select.cs-skin-border11{
+    border: none;
+    background: #FFFFFF;
+    margin-top: 115px;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 170px;
+}
+.cs-select.cs-skin-border12{
+    border: none;
+    background: #FFFFFF;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 290px;
+    position: relative;
+    top: 90px;
+}
+.cs-select.cs-skin-border13{
+    border: none;
+    background: #FFFFFF;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 410px;
+    position: relative;
+    top: 66px;
+}
+.cs-select.cs-skin-border14{
+    border: none;
+    background: #FFFFFF;
+    width: 145px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 530px;
+    position: relative;
+    top: 41px;
+}
+.cs-select.cs-skin-border15{
+    border: none;
+    background: #FFFFFF;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 680px;
+    position: relative;
+    top: 15px;
+}
+.cs-select.cs-skin-border16{
+    border: none;
+    background: #FFFFFF;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 790px;
+    position: relative;
+    top: -10px;
+}
+div.cs-skin-border {
+    font-size: 14px;
+    max-width: 600px;
+}
+div.cs-select {    
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -125px;
+    left: 131px;
+    text-align: left;
+    max-width: 500px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+select.cs-select.cs-skin-border{
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    background-color: rgba(255, 255, 255, 1);
+    width: 175px;
+    height: 50px;
+    padding-left: 10px;
+    color: rgba(34, 34, 34, 0.4);
+}
+#i1{
+    height: 25px;
+}
+.blog2 {
+    position: relative;
+    top: -157px;
+    margin-left: 1050px;
+    text-decoration: none;
+    color: black;
+    height: 20px;
+}
+.blog3 {
+    position: relative;
+    top: -157px;
+    left: 35px;
+    text-decoration: none;
+    color: black;
+    height: 20px;
+}
+.blog4 {
+    position: relative;
+    top: -157px;
+    left: 75px;
+    text-decoration: none;
+    color: black;
+    height: 20px;
+}
+.three{
+    margin-left: 330px;
+    margin-top: 30px;
+}
+.glavnaa{
+    display: flex;
+}
+.glavnaa1{
+    font-size: 12px;
+    margin-left: 115px;
+}
+.glavnaa2{
+    font-size: 12px;
+    padding-left: 10px;
+}
+.glavnaa3{
+    font-size: 12px;
+    padding-left: 10px;
+}
+.kontaktu{
+    margin-left: 215px;
+    margin-top: 100px;
+}
+.kon{
+    font-size: 31px;
+}
+.ad{
+    font-size: 12px;
+    margin-top: 30px;
+}
+.yl{
+    font-size: 16px;
+    margin-top: 15px;
+}
+.tele{
+    font-size: 12px;
+    margin-top: 40px;
+}
+.o44{
+    font-size: 16px;
+    margin-top: 15px;
+}
+.rew{
+    font-size: 12px;
+    margin-top: 40px;
+}
+.pn1{
+    font-size: 16px;
+    margin-top: 15px;
+    margin-right: 500px;
+}
+.poi{
+    font-size: 20px;
+    padding-top: 40px;
+}
+.otp{
+    width: 379px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.otp1{
+    text-decoration: none;
+    color: white;
+    width: 379px;
+    height: 100px;
+}
+#input1{
+    display: block;
+    margin-left: 65px;
+    width: 370px;
+    height: 50px;
+    margin-top: 15px;
+}
+.input{
+    width: 500px;
+    height: 460px;
+    background-color: whitesmoke;
+    text-align: center;
+    position: relative;
+    top: -350px;
+    left: 750px;
+}
+.karta{
+    width: 1440px;
+    height: 400px;
+    position: relative;
+    top: -300px;
+}
+.three{
+    height: 983px;
+}
+
+.fifth{
+    width: 1440px;
+    height: 260px;
+    background-color: whitesmoke;
+    margin-left: 330px;
+}
+.logo2{
+    position: relative;
+    left: 201px;
+    top: 64px;
+    background-blend-mode: darken; 
+    width: 156px;
+    height: 86px;
+}
+.logogo{
+    background-blend-mode: darken;
+}
+.line21{
+    width: 1036px;
+    height: 1px;
+    background-color: rgba(29, 29, 29, 0.2);
+    position: relative;
+    left: 201px;
+    top: -240px;
+}
+.hotel{
+    position: relative;
+    width: 103px;
+    height: 91px;   
+    left: 514px;
+    top: -27px;
+    color: rgba(62, 62, 62, 1);
+}
+.agentam{
+    position: relative;
+    width: 103px;
+    height: 91px;   
+    left: 697px;
+    top: -118px;
+    color: rgba(62, 62, 62, 1);
+}
+.rewipn{
+    position: relative;
+    top: -300px;
+    width: 150px;
+    height: 91px;
+}
+.rewuv{
+    font-size: 14px;
+    width: 131px;
+    height: 16px;
+    color: #3E3E3E;
+    position: relative;
+    left: 854px;
+    top: 92px;
+}
+.pn{
+    font-size: 15px;
+    width: 150px;
+    height: 16px;
+    color: #3E3E3E;
+    position: relative;
+    left: 854px;
+    top: 85px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+}
+.th8{
+    width: 170px;
+    height: 50px;
+    font-size: 15px;
+    color: #3E3E3E;
+    position: relative;
+    left: 1084px;
+    top: -300px;
+}
+.vce{
+    width: 89px;
+    height: 16px;
+    font-size: 12px;
+    position: relative;
+    left: 1084px;
+    top: -300px;
+    text-decoration: none;
+}
+.t021{
+    width: 377px;
+    height: 18px;
+    font-size: 14px;
+    color: rgba(62, 62, 62, 0.5);
+    position: relative;
+    left: 201px;
+    top: -220px;
+}
+.icon2{
+    position: relative;
+    top: 185px;
+    left: 1157px;
+    top: -235px;
+}
+.icon22{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 1);
+}
+.a{
+    text-decoration: none;
+    color: rgba(62, 62, 62, 1);
+    width: 150px;
+    height: 16px;
+}
+.fourth{
+    margin-left: 330px;
+}
+.naw{
+    font-size: 31px;
+    margin-left: 115px;
+    margin-top: 90px;
+    width: 272px;
+    height: 42px;
+}
+.byl{
+    margin-left: 50px;
+}
+.otdel{
+    margin-left: 50px;
+}
+.avia{
+    margin-left: 50px;
+}
+.vce1{
+    font-weight: bold;
+}
+.flex{
+    display: flex;
+    position: relative;
+    left: 603px;
+    top: -30px;
+    font-size: 16px;
+}
